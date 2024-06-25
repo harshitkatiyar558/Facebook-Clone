@@ -262,7 +262,7 @@ body {
 .imagewallah1 {
     height: 600px;
     width: 100%;
-    background-image: url("https://scontent.fdel25-2.fna.fbcdn.net/v/t39.30808-6/447484972_1021396852676987_797864912660733154_n.jpg?stp=dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=b_6xzw5n7owQ7kNvgF-ObiP&_nc_ht=scontent.fdel25-2.fna&oh=00_AYBEEAyNAn9t_MHNejDPXSxtT5l63ti3Zjng6h_GHENWMA&oe=66626665");
+    background-image: url("assets/imagewallah1.jpg");
     background-size: cover;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px ;
@@ -273,7 +273,7 @@ body {
 .imagewallah2 {
   height: 600px;
   width: 100%;
-  background-image: url("https://www.mordeo.org/files/uploads/2020/08/Katherine-Langford-2020-4K-Ultra-HD-Mobile-Wallpaper-scaled.jpg");
+  background-image: url("assets/imagewallah2.jpg");
   background-size: cover;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px ;
@@ -285,7 +285,7 @@ body {
 .imagewallah3 {
   height: 600px;
   width: 100%;
-  background-image: url("https://scontent.fdel25-1.fna.fbcdn.net/v/t45.1600-4/403398398_120202012655620238_2295135611319725620_n.jpg?stp=cp0_dst-jpg_p526x296_q75_spS444&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=pODMWOS7538Q7kNvgHgHTmF&_nc_ht=scontent.fdel25-1.fna&oh=00_AYCCVNSYc7WPqyEXy3l0Hg7NiaSKzIhrViCkjxIdlls-LA&oe=66626FD4");
+  background-image: url("assets/imagewallah3.jpg");
   background-size: cover;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px ;
@@ -295,7 +295,7 @@ body {
 .imagewallah4 {
   height: 600px;
   width: 100%;
-  background-image: url("https://www.filmibeat.com/wimg/mobi/2016/08/kendall-jenner_147209884300.jpg");
+  background-image: url("assets/imagewallah4.jpg");
   background-size: cover;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px ;
@@ -305,7 +305,7 @@ body {
 .imagewallah5 {
   height: 600px;
   width: 100%;
-  background-image: url("https://scontent.fdel25-3.fna.fbcdn.net/v/t39.30808-6/447023529_1019246446225361_7758988913918161726_n.jpg?stp=dst-jpg_p526x296&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MUc6jpgbKi0Q7kNvgEz_zA9&_nc_ht=scontent.fdel25-3.fna&oh=00_AYA2iFdzmKGAKFOfy_jTLp5mY6XL8WStE3KlngelYsomrg&oe=666257FE");
+  background-image: url("assets/imagewallah5.jpg");
   background-size: cover;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px ;
