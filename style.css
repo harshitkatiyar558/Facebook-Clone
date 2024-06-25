@@ -262,7 +262,7 @@ body {
 .imagewallah1 {
     height: 600px;
     width: 100%;
-    background-image: url("assets/imagewallah1.jpg");
+    background-image: url("./assets/imagewallah1.jpg");
     background-size: cover;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px ;
@@ -273,7 +273,7 @@ body {
 .imagewallah2 {
   height: 600px;
   width: 100%;
-  background-image: url("assets/imagewallah2.jpg");
+  background-image: url("./assets/imagewallah2.jpg");
   background-size: cover;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px ;
@@ -285,7 +285,7 @@ body {
 .imagewallah3 {
   height: 600px;
   width: 100%;
-  background-image: url("assets/imagewallah3.jpg");
+  background-image: url("./assets/imagewallah3.jpg");
   background-size: cover;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px ;
@@ -295,7 +295,7 @@ body {
 .imagewallah4 {
   height: 600px;
   width: 100%;
-  background-image: url("assets/imagewallah4.jpg");
+  background-image: url("./assets/imagewallah4.jpg");
   background-size: cover;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px ;
@@ -305,7 +305,7 @@ body {
 .imagewallah5 {
   height: 600px;
   width: 100%;
-  background-image: url("assets/imagewallah5.jpg");
+  background-image: url("./assets/imagewallah5.jpg");
   background-size: cover;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px ;
